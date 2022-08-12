@@ -1,6 +1,6 @@
 # MaratonaExplorer
 
-Foi criado um Menu digital com QR CODE
+Foi criado um Menu digital com QR CODE junto com um logo criado na ferramenta photoshop, as linguagens utilizadas foram HTML5 e CSS3.
 
 ![image](https://user-images.githubusercontent.com/90863111/184265955-afe5747b-ab7a-4dc7-af0a-3a3271662300.png)
 
